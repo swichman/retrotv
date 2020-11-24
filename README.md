@@ -1,5 +1,6 @@
 Retro-Idiot-Box
 ===
+![TV Shot](F2TY61TKDYJKUJS.jpg)
 
 This project was done to introduce myself to the process of creating an instructable. You can find the project [here](https://www.instructables.com/Retro-Idiot-Box/).
 
